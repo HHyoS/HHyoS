@@ -12,3 +12,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhyos&show_icons=true&locale=en" alt="hhyos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhyos&" alt="hhyos" /></p>
+<p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs/?username=hhyos&&langs_count=8" alt="hhyos" /></p>
