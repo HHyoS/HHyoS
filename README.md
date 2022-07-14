@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhyos&label=Profile%20views&color=0e75b6&style=flat" alt="hhyos" /> </p>
 
 - 📫 How to reach me **HyoSang68@gmail.com**
+- 📫 My tech-velog **https://velog.io/@gytkd33**
 
 
 <h3 align="left">Languages and Tools:</h3>
